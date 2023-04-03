@@ -7,3 +7,4 @@ struct AlamatDetail
 	char kota[20];
 };
 
+ 
