@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ActivityStructure3_202.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="struc1.cpp">
+    <ClCompile Include="Struct2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
